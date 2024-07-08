@@ -1,0 +1,60 @@
+body{
+    background-color: rgb(17 24 39);
+}
+
+.addbookbtn{
+    background-color: rgb(28, 117, 250);
+    font-size: 30px;
+    color: white;
+    padding: 15px;
+    border-radius: 15px;
+}
+
+.bookbtn{
+    text-align: center;
+    margin-top: 30px;
+}
+
+title,input{
+    display: block;
+}
+
+form{
+    width: 600px;
+    height: 550px;
+    font-size: 30px;
+    text-align: center;
+}
+
+input{
+    width: 580px;
+    font-size: 24px;
+    padding: 10px;
+    height: 50px;
+    border-radius: 15px;
+    margin: 10px auto;
+}
+
+#read_status{
+    height:20px;
+    width: 20px;
+}
+
+dialog{
+    border-radius: 15px;
+    margin-top: 60px;
+}
+
+#submit{
+    position: relative;
+    bottom: 0;
+    width: 580px;
+    background-color: rgb(46, 46, 46);
+    font-size: 30px;
+    color: white;
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 0px;
+    margin-top: 15px;
+}
+
